@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ramtin
 
 # 💫 About Me:
-I Passionate about building efficient, elegant solutions through code.
+I'm Passionate about building efficient, elegant solutions through code.
 I specialize in C++, Python, and software design principles. 
 Always exploring new technologies, contributing to open-source, and leveling up one project at a time.
 
