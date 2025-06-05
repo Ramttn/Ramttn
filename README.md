@@ -11,7 +11,7 @@ Socials: ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=li
 
 # 💻 Tech Stack:
 Languages: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![HTML](https://img.shields.io/badge/-HTML-b86b2c?logo=html&style=for-the-badge) 
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![HTML](https://img.shields.io/badge/-HTML-b86b2c?logo=html&logoColor=white&style=for-the-badge) 
 
 
 ---
